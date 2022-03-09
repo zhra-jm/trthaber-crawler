@@ -27,7 +27,7 @@ A crawler that contains news data from trthaber.
 
 * first of all we have to create tables:
 
-``` python3 main.py "create_tables"
+``` python3 main.py "create_tables"```
 
 * to run the projects first of all we have to find the links we want to crawl so you have to run:
  
