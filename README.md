@@ -3,9 +3,9 @@ A crawler that contains news data from trthaber.
 
 
 ## Build With
-*sqlite
+* sqlite
 
-*python
+* python
 
 ## How To Use
 
@@ -41,4 +41,4 @@ A crawler that contains news data from trthaber.
  
  ```python3 main.py "stats"```
  
- *Wish you have enjoyed that!Good Luck:D
+ * Wish you have enjoyed that!Good Luck:D
